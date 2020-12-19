@@ -5,7 +5,7 @@ authors = ["Rooster <roosterchicken@protonmail.ch>"]
 edition = "2018"
 description = "Bee Movie GUI written in GTK3"
 repository = "https://github.com/roosterchicken/beemovie-rs"
-keywords = ["barry", "benson", "gtk", "gnome", "gui", "generator", "text", "bee", "movie", "beemovie"]
+keywords = ["gtk", "gnome", "gui", "generator", "text"]
 license = "MIT"
 readme = "README.md"
 [features]
