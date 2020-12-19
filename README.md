@@ -1,5 +1,4 @@
 # beemovie-gui
-## Bee Movie GUI
 ![Barry Benson](https://roooster.cf/barry.png)
 # Building
 You need the GTK+ 3, Glib, GDK3, and Cairo development libraries to build this repository.
